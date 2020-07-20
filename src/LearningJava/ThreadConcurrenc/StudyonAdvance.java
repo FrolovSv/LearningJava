@@ -16,7 +16,7 @@ import java.util.concurrent.*;
 
 // Расширить класс MyPhaser, чтобы выполнить
 // только определенное количество фаз
-public class StudyonAdvance {
+public class StudyOnAdvance {
     public static void main(String args[]){
         MyPhaser phsr = new MyPhaser(1, 4);
 
